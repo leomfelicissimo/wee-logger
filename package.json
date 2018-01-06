@@ -1,0 +1,26 @@
+{
+  "name": "wee-logger",
+  "version": "1.0.0",
+  "description": "Module that encapsulate log functions (like console) and exposes methods to log based on configurable filters: ALL, INFO, ERROR, DEBUG.",
+  "main": "logger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leomfelicissimo/wee-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "logging",
+    "log",
+    "trace",
+    "debug"
+  ],
+  "author": "Leonardo Felicissimo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leomfelicissimo/wee-logger/issues"
+  },
+  "homepage": "https://github.com/leomfelicissimo/wee-logger#readme"
+}
